@@ -18,3 +18,14 @@ $ python manage.py runserver
 ```
 
 ### Result
+- home
+
+![1](wordCount1.PNG)
+
+- result
+
+![2](wordCount2.PNG)
+
+- about
+
+![3](wordCount3.PNG)
